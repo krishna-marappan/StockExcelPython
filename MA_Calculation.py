@@ -14,6 +14,3 @@ def MA_20_Calculation(stockpath, row):
     row.append(ma_20)
     row.append(res)
     return row
-
-
-
